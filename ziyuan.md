@@ -32,7 +32,7 @@ title: 资源「USEFUL LINKS」
 <h3> Some useful/beautiful web </h3>   
 <p>
 <a href="https://www.panc.cc" target="_blank">胖次</a>- 网盘，资料搜索..&nbsp;&nbsp;
-<a href="" target="_blank">无</a>- 无 &nbsp;&nbsp;
+<a href="https://i.sihua.me/?u=9831" target="_blank">梯子[Ladder]</a>- Google &nbsp;&nbsp;
 <a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog&nbsp;&nbsp;
 
 <p>
@@ -55,6 +55,7 @@ title: 资源「USEFUL LINKS」
  <p>
 <a href="http://www.lilian.info" target="_blank" >LILIAN</a>- 牛人一枚 UESTC
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dandyweng.com" target="_blank" >翁天信</a>- homeschooling、自由的行者...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iots.vip" target="_blank" >Alliot's blog</a>- Maker & Developer
 <p>
 <a href="http://szhshp.org" target="_blank" >szhshp</a>- 前端，设计，游戏，生活.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://xiaolei.tech" target="_blank" >Xiaolei</a>- 电科，影响了我的一位大神.
