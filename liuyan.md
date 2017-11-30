@@ -130,9 +130,9 @@ var duoshuoQuery = {short_name:"robotkang"};
     <div id="comment"></div>
     <script>
        new Valine({
-       el: '.comment', // 
-       app_id: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz', // 这里填写上面得到的APP ID
-       app_key: '59CrEdy9yw1xmqcDQ4JcJbWy', // 这里填写上面得到的APP KEY
+       el: '#comment', // 
+       appId: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz', // 这里填写上面得到的APP ID
+       appKey: '59CrEdy9yw1xmqcDQ4JcJbWy', // 这里填写上面得到的APP KEY
        placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!' // [v1.0.7 new]留言框占位提示文字
        });
 </script>
