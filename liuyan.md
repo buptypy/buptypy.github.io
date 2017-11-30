@@ -121,19 +121,15 @@ var duoshuoQuery = {short_name:"robotkang"};
 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Valine - A simple comment system based on Leancloud.</title>
     <!--Leancloud 操作库:-->
     <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
     <!--Valine 的核心代码库:-->
-    <script src="/Valine/dist/Valine.min.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 </head>
 <body>
-    <div class="comment"></div>
+    <div id="comment"></div>
     <script>
        new Valine({
-       // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
-       av: AV, 
        el: '.comment', // 
        app_id: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz', // 这里填写上面得到的APP ID
        app_key: '59CrEdy9yw1xmqcDQ4JcJbWy', // 这里填写上面得到的APP KEY
