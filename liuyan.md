@@ -120,39 +120,19 @@ var duoshuoQuery = {short_name:"robotkang"};
 
 
 <html lang="en">
+
 <head>
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
- 
-</head>
-<body>
-<script>
-    new Valine({
-    el: '#comment' ,
-    notify:false, 
-    verify:false, 
-    appId: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz',
-    appKey: '59CrEdy9yw1xmqcDQ4JcJbWy',
-    placeholder: 'just go go',
-    path:window.location.pathname, 
-    avatar:'mm' 
-});
-</script>
-    <div id="comment"></div>
-</body>
-
-
-<!--<head>
     <meta charset="UTF-8">
-    <!--Leancloud 操作库:
+    <!--Leancloud 操作库:-->
     <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <!--Valine 的核心代码库:
+    <!--Valine 的核心代码库:-->
     <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
 </head>
 <body>
-    <div id="comment"></div>
+    <div id="comment" class="v"></div>
     <script>
        new Valine({
+       av: AV,
        el: '#comment'
        appId: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz', // 这里填写上面得到的APP ID
        appKey: '59CrEdy9yw1xmqcDQ4JcJbWy', // 这里填写上面得到的APP KEY
@@ -160,7 +140,7 @@ var duoshuoQuery = {short_name:"robotkang"};
        
        });
 </script>
-</body>-->
+</body>
 </html>
 
 
