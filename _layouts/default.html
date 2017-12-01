@@ -32,10 +32,13 @@
     <div class="content-wrapper">
         <div class="content-wrapper__inner">
             {{ content }}
-            {% include footer.html %}
+            {% if site.data.social.valine_comment.enable and page.comments == true %}
+        <div id="comments"></div>
+        {% endif %}{% include footer.html %}
         </div>
+
     </div>
-    
+    {% include scripts.html %}
     {% include external.html %}
     
 <!-- 

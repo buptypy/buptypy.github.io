@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 留言板「MESSAGE」 
+title: 留言板「MESSAGE」
+comments: true 
 ---
 
 <img src="http://omjh2j5h3.bkt.clouddn.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>
@@ -118,28 +119,6 @@ var duoshuoQuery = {short_name:"robotkang"};
 	</script>
 <!-- 多说公共JS代码 end -->
 
-
-
-<head>
-    <meta charset="UTF-8">
-    <!--Leancloud 操作库:-->
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <!--Valine 的核心代码库:-->
-    <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
-</head>
-<body>
-    <div id="comment" class="v"></div>
-    <script>
-       new Valine({
-       av: AV,
-       el: '#comment'
-       appId: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz', // 这里填写上面得到的APP ID
-       appKey: '59CrEdy9yw1xmqcDQ4JcJbWy', // 这里填写上面得到的APP KEY
-       placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!' // [v1.0.7 new]留言框占位提示文字
-       
-       });
-</script>
-</body>
 
 
 
