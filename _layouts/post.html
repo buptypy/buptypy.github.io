@@ -70,7 +70,34 @@ layout: default
 <br>
 
 <br><br><br></br>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Valine - A simple comment system based on Leancloud.</title>
+    <!--Leancloud 操作库:-->
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <!--Valine 的核心代码库:-->
+    <script src="/Valine-1.1.8/dist/Valine.min.js"></script>
+</head>
+<body>
+    <div class="comment"></div>
+    <script>
+        new Valine({
+            // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+            av: AV, 
+            el: '.comment', // 
+            app_id: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz', // 这里填写上面得到的APP ID
+            app_key: '59CrEdy9yw1xmqcDQ4JcJbWy', // 这里填写上面得到的APP KEY
+            placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!', // [v1.0.7 new]留言框占位提示文字
+            avatar:'wavatar',
+            path:window.location.pathname,
+            guest_info:['nick','mail','link'] ,
+            pageSize:10,
+        });
+    </script>
+</body>
+</html>	
 
 <!--div id="plus"></div>
 <script src="https://qingqing.com/static/js/plus.js"></script-->
