@@ -62,7 +62,7 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 
 博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
 <p>模板代码可任意使用，但请保留本站友情链接。 &emsp;      
-本站名称：Robotkang's Blog &emsp;        
+本站名称：Robotkang &emsp;        
 本站网址：http://www.robotkang.cc &emsp;         
 
 <h3> 联系方式 </h3>         
@@ -73,7 +73,7 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 </script>
 
 <p>邮箱：robotkang@foxmail.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">微信：kang1390305137</a><img id="img1" src="http://omjh2j5h3.bkt.clouddn.com/kangweix.png" style="display:none;"  width="128" height="128">&emsp;
-	<a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：纵览天下事一简报</a><img id="img2" src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.jpg" style="display:none;" width="128" height="128" >
+	<a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：创客工坊DIY</a><img id="img2" src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.png" style="display:none;" width="128" height="128" >
  
 <p>
 <a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>  
