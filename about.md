@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于我「ABOUT ME」 
-date: 2017-12-27 
+date: 2018-01-20
 ---
 <a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%A9%E7%AD%96.jpg" width="150" height="150" alt="photos"/></a>
 
@@ -61,7 +61,7 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 <p> 
 
 博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
-<div style="color:#D53F77"><p>模板代码可任意使用，但请保留本站友情链接。 &emsp;      
+> <div style="color:#D53F77"><p>模板代码可任意使用，但请保留本站友情链接。 &emsp;      
 本站名称：Robotkang &emsp;        
 本站网址：http://www.robotkang.cc &emsp;         
 </p>
