@@ -63,12 +63,14 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~         
 <p>
 
-----------
-
->模板代码可任意使用，但请保留本站友情链接。 
+<div style="color:#FF0000">
+<p>
+模板代码可任意使用，但请保留本站友情链接。 
 &emsp;      
 本站名称：Robotkang &emsp;        
 本站网址：http://www.robotkang.cc &emsp;         
+</p>
+</div>
 
 <h3> 联系方式 </h3>         
 <script>
