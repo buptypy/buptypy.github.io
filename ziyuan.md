@@ -73,7 +73,7 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 <a href="/photos/"  style="color:#272727" target="_blank"> <h1>相册「Photos」</h1></a>  
 </p>
 
-<a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/tupian.png" width="967" height="195" alt="photos" display="block"/></a>
+<a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/tupian.png" width="100%" height="auto" alt="photos" display="block"/></a>
 
 <p>
 <a  style="color:#272727" target="_blank"> <h1>游戏「Games」</h1></a>  
