@@ -54,6 +54,8 @@ title: 资源「USEFUL LINKS」
  <p>
 <h3> Friends</h3>  
  <p>
+<strong>江湖上的事，名头占了两成，功夫占了两成，余下的六成，却要靠黑白两道的朋友们赏脸了。</strong>
+<p>
 <a href="http://www.lilian.info" target="_blank" >LILIAN</a>- 牛人一枚 UESTC
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dandyweng.com" target="_blank" >翁天信</a>- homeschooling、自由的行者...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iots.vip" target="_blank" >Alliot's blog</a>- Maker & Developer
