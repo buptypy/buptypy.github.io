@@ -39,7 +39,8 @@ title: 资源「USEFUL LINKS」
 <a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog&nbsp;&nbsp;
 
 <p>
-<a href="http://www.86ditu.com" target="_blank">卫星地图「谷歌」</a>- 来找找你家的房顶吧...
+<a href="http://www.86ditu.com" target="_blank">卫星地图「谷歌」</a>- 来找找你家的房顶吧...  
+&nbsp;&nbsp;<a href="http://www.weibodang.cn/" target="_blank">视频下载</a>- 很强大
 
 <p>
 <a href="http://zh.flightaware.com/live/" target="_blank">实时航班跟踪</a>- 地图实时显示天上的飞机状态，令你大开眼界　
