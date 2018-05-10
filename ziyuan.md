@@ -28,7 +28,7 @@ title: 资源「USEFUL LINKS」
 <img src="http://omjh2j5h3.bkt.clouddn.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/APP/" target="_blank">APP下载2</a>- 专属软件.&nbsp;&nbsp;
 <img src="http://omjh2j5h3.bkt.clouddn.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/Robotkang Lab/" target="_blank">Robotkang Lab</a>- LAB.&nbsp;&nbsp;
+<a href="/Robotkang Lab/" target="_blank">Robotkang Lab</a>- LAB.未更新&nbsp;&nbsp;
 
 <P>       
 <h3> Some useful/beautiful web </h3>   
