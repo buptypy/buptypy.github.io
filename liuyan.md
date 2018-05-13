@@ -10,10 +10,19 @@ comments: true
 <p><h4>有什么话要对我说吗？</h4>     
 <P><h4>这里是你畅所欲言的地方，可以咨询，</h4>
 <p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>   
+
+<div class="text-center" style="margin-top: 15px;">
+    <img src="https://mkblog.cn/blog/images/qrcode.jpg" title="支付宝、微信、手机QQ扫码打赏">
+</div>
+
 <p>
 <img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<p href="/donation/" style="color:#FF4500"> <h5>赞助光荣榜</h5></p>  
+<a href="/donation/" style="color:#FF4500" target="_blank" style="text-decoration:none">赞助光荣榜</a> &nbsp;&nbsp;
+<p>花径不曾缘客扫，蓬门今始为君开！
+我一直相信，所有的相遇都是一种缘分。能够看到这些文字，我们之间就已经产生了些不可言喻，却又令人期待的微妙联系。
 
+虽然不知文字维系的缘分会有多长。
+既然来了，请尽量享受O(∩_∩)O~。
 
 
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
@@ -124,7 +133,7 @@ var duoshuoQuery = {short_name:"robotkang"};
 	</script>
 <!-- 多说公共JS代码 end -->
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+
 
 
 
