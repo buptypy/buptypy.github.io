@@ -23,6 +23,7 @@ comments: true
 
 虽然不知文字维系的缘分会有多长。
 既然来了，请尽量享受O(∩_∩)O~。
+<a href="/dsimg/" style="color:#FF4500" target="_blank" style="text-decoration:none">赞助</a> &nbsp;&nbsp;
 
 
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
