@@ -12,7 +12,7 @@ comments: true
 <p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>   
 
 <div class="text-center" style="margin-top: 15px;">
-    <img src="https://mkblog.cn/blog/images/qrcode.jpg" title="支付宝、微信、手机QQ扫码打赏">
+    <img src="http://omjh2j5h3.bkt.clouddn.com/%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.png" title="支付宝、微信、手机QQ扫码打赏">
 </div>
 
 <p>
