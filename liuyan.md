@@ -120,9 +120,10 @@ var duoshuoQuery = {short_name:"robotkang"};
 <!-- 多说公共JS代码 end -->
 <p>
 <img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<p>
+<a>
 <img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/><a href="/donation/" style="color:#FF4500"> <h5>赞助光荣榜</h5></a>  
-</p>
+</a>
+
 
 <!--
 <a href="/fangke/" style="color:#708090"> <h5>Recent Visitors</h5></a>  
