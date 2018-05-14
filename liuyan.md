@@ -17,13 +17,13 @@ comments: true
 
 <p>
 <img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/donation/" style="color:#FF4500" target="_blank" style="text-decoration:none">赞助光荣榜</a> &nbsp;&nbsp;
+<a href="/donation/" target="_blank" style="text-decoration:none;color:#FF4500">赞助光荣榜</a> &nbsp;&nbsp;
 <p>花径不曾缘客扫，蓬门今始为君开！
 我一直相信，所有的相遇都是一种缘分。能够看到这些文字，我们之间就已经产生了些不可言喻，却又令人期待的微妙联系。
 
 虽然不知文字维系的缘分会有多长。
 既然来了，请尽量享受O(∩_∩)O~。
-<a href="/dsimg/" style="color:#FF4500" target="_blank" style="text-decoration:none">赞助</a> &nbsp;&nbsp;
+<a href="/dsimg/" style="color:#FF4500" target="_blank" style="text-decoration:none">Donation</a> &nbsp;&nbsp;
 
 
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
