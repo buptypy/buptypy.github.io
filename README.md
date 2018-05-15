@@ -14,7 +14,7 @@ Jekyll 需要依赖：Ruby、bundler
 
 #### 获取博客模板
 
-> $ git clone https://github.com/MengZheK/kangblog.github.io.git
+> $ git clone https://github.com/MengZheK/kangblog.github.io.git  
 
 或者直接[下载博客](https://github.com/MengZheK/kangblog.github.io/archive/master.zip)   
 
