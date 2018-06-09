@@ -22,7 +22,7 @@ tag: 机器视觉
 
 - 官网: [https://opencv.org/releases.html](https://opencv.org/releases.html)       
 
-Python也要在本地下载安装好，我现在安装的是 `OpenCV 2.4.11` .
+Python也要在本地下载安装好，我现在安装的是 `OpenCV 2.4.11` . 3.0以上的库都得配套VS更高的版本了貌似.   
 
 ** 2.配置好环境变量**       
 
