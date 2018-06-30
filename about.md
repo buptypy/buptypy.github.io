@@ -6,8 +6,9 @@ date: 2018-01-20
 <a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%A9%E7%AD%96.jpg" width="150" height="150" alt="photos"/></a>
 
 <p>
-一个刚刚走出象牙塔的 Maker「未更新」<a href="{{ site.baseurl }}/jianli.pdf" target="_blank"> 「我的简历」 </a>    
+一个刚刚走出象牙塔的 Maker「未更新」<a href="/Mr.Kang_ Developer_ files/" target="_blank"> 「我的简历」 </a>    
 
+<!--{{ site.baseurl }}/jianli.pdf-->
 
 <div style="color:#FF6633">
 <p>	三尺微命，一介书生。求学于卫星湖畔，黄瓜山下，欲潜心研究智能机器人开发应用之道。然所学颇杂，对诸多方面均有涉猎，喜欢研究一些新技术和关注一些最新的科技~
