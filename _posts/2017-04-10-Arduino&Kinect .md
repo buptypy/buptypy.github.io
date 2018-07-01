@@ -16,7 +16,7 @@ tag:  Arduino
   体感智能车的原理非常的简单，就是利用Kinect采集人体的姿体信息，然后通过蓝牙串口向Arduino发送字符命令。Arduino通过相应的字符命令控制双H桥电机驱动模块实现小车的前进后退等动作。项目主要用到小车底盘套件、蓝牙、控制器等...
 <img src="http://omjh2j5h3.bkt.clouddn.com/%E6%99%BA%E8%83%BD%E8%BD%A6/1.png" width="380" height="230" alt="photos"/>
 
-###Arduino实现串口控制小车
+### Arduino实现串口控制小车
 
 
 
@@ -158,11 +158,14 @@ tag:  Arduino
         程序下载好后安装蓝牙模块，通过串口助手进行测试，确定字符命令可以控制小车。
 
 
-###Kinect与Arduino进行串口通信
+### Kinect与Arduino进行串口通信
 
 
 
-        下面进行Kinect的代码编写，我采用的是processing软件，使用前需要安装Kinectqu驱动`OpenNI_NITE_Installer-win32-0.27`和kinect的链接库`SimpleOpenNI-0.27`<a href="https://code.google.com/p/simple-openni/downloads/list" target="_blank">下载地址</a>。
+        下面进行Kinect的代码编写，我采用的是processing软件（最好使用低版本的），使用前需要安装Kinectqu驱动`OpenNI_NITE_Installer-win32-0.27`和kinect的链接库`SimpleOpenNI-0.27`<a href="https://code.google.com/p/simple-openni/downloads/list" target="_blank">下载地址</a>。
+
+> 下载这个库需要翻墙下载，具体方法可看我这篇文章：
+<a href="http://robotkang.cc/2017/11/The-ladder/" target="_blank">如何高效且优雅的翻墙</a>
  
 
 
