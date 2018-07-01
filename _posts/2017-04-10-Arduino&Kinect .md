@@ -162,10 +162,11 @@ tag:  Arduino
 
 
 
-        下面进行Kinect的代码编写，我采用的是processing软件（最好使用低版本的），使用前需要安装Kinectqu驱动`OpenNI_NITE_Installer-win32-0.27`和kinect的链接库`SimpleOpenNI-0.27`<a href="https://code.google.com/p/simple-openni/downloads/list" target="_blank">下载地址</a>。
+        下面进行Kinect的代码编写，我采用的是processing软件（最好使用低版本的），使用前需要安装Kinect驱动`OpenNI_NITE_Installer-win32-0.27`和kinect的链接库`SimpleOpenNI-0.27`<a href="https://code.google.com/p/simple-openni/downloads/list" target="_blank">下载地址</a>。
 
-> 下载这个库需要翻墙下载，具体方法可看我这篇文章：
-<a href="http://robotkang.cc/2017/11/The-ladder/" target="_blank">如何高效且优雅的翻墙</a>
+> 下载SimpleOpenNI这个库需要翻墙下载，具体方法可看我这篇文章：
+<a href="http://robotkang.cc/2017/11/The-ladder/" target="_blank">如何高效且优雅的翻墙</a>      
+<br>
  
 
 
