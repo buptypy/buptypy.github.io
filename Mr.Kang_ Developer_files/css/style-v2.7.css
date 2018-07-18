@@ -119,7 +119,7 @@ a.button { display: inline-block; }
 	background-size: 20px auto;
 }
 .header__address__item-phone { background-position: 0 0; }
-.header__address__item-qq { background-position: 0 -28px; }
+.header__address__item-qq { background-position: 0 -27.5px; }
 .header__address__item-email { background-position: left bottom; }
 .header__address__item-blog {
 	padding-left: 0;
