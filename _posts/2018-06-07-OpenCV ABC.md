@@ -55,3 +55,11 @@ Python也要在本地下载安装好，我现在安装的是 `OpenCV 2.4.11` . 3
 <br>
 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7648908799310520",
+          enable_page_level_ads: true
+     });
+</script>
+
