@@ -44,7 +44,9 @@ title: 资源「USEFUL LINKS」
 
 <p>
 <a href="http://zh.flightaware.com/live/" target="_blank">实时航班跟踪</a>- 地图实时显示天上的飞机状态，令你大开眼界　
-
+<p>
+<a href="/daohang/"  style="color:#272727" target="_blank"> 导航</a>  
+</p>
 
 
 <h3> Resource sharing</h3>   
